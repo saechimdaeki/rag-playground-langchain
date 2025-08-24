@@ -1,0 +1,4 @@
+.env
+.python-version
+example/chroma_db/chroma.sqlite3
+*.bin
