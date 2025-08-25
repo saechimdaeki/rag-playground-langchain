@@ -2,3 +2,4 @@
 .python-version
 example/chroma_db/chroma.sqlite3
 *.bin
+/example/__pycache__
